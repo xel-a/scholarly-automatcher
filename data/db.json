@@ -1,0 +1,64 @@
+{
+    "scholarships": [
+        {
+            "id": 0,
+            "criteria": "Must have leadership experience\nMust be diligent\nMust have community involvement\nMust have research experience\nMust have a minimum GPA of 3.5\nMust submit an essay on overcoming challenges\nMust provide letters of recommendation from teachers or mentors"
+        },
+        {
+            "id": 1,
+            "criteria": "Must have strong communication skills\nMust have demonstrated teamwork abilities\nMust have a track record of academic improvement\nMust have a history of community service involvement\nMust have a GPA of 2.1 or above"
+        },
+        {
+            "id": 2,
+            "criteria": "Must have demonstrated leadership in a community organization\nMust have completed a relevant certification or training program\nMust have a history of entrepreneurship or innovation\nMust have received awards or recognition for academic excellence\nMust have demonstrated a commitment to social justice advocacy\nMust have shown dedication to mentoring or tutoring others"
+        },
+        {
+            "id": 3,
+            "criteria": "Must have a minimum GPA of 3.2\nMust have demonstrated involvement in extracurricular clubs or organizations\nMust have completed a research project related to their field of study\nMust have a history of volunteering for environmental causes\nMust have shown leadership in a religious or spiritual community"
+        },
+        {
+            "id": 4,
+            "criteria": "Must have participated in a study abroad program\nMust have demonstrated proficiency in coding or programming languages\nMust have received scholarships or awards for academic achievements\nMust have published academic papers or articles in reputable journals\nMust have shown a commitment to promoting diversity and inclusion on campus"
+        },
+        {
+            "id": 5,
+            "criteria": "Must have participated in a study abroad program\nMust have demonstrated proficiency in coding or programming languages\nMust have received scholarships or awards for academic achievements\nMust have published academic papers or articles in reputable journals\nMust have shown a commitment to promoting diversity and inclusion on campus"
+        },
+        {
+            "id": 6,
+            "criteria": "Must have completed an internship in their desired field\nMust have participated in sports at the varsity level\nMust have demonstrated excellence in public speaking or debate\nMust have shown initiative in starting their own projects or initiatives\nMust have actively contributed to the improvement of their local community\nMust have a GPA of 3.0 or below"
+        },
+        {
+            "id": 7,
+            "criteria": "Must have demonstrated proficiency in a foreign language\nMust have participated in cultural exchange programs or events\nMust have completed a leadership development program\nMust have shown dedication to serving underprivileged populations\nMust have demonstrated critical thinking skills through problem-solving projects\nMust have a GPA of 3.1 or above"
+        },
+        {
+            "id": 8,
+            "criteria": "Must have received recommendations from community leaders or mentors\nMust have shown dedication to continuous learning and self-improvement\nMust have demonstrated financial independence or self-sufficiency\nMust have a clear vision for their future career and academic goals\nMust have actively participated in political or social activism\nMust have maximum GPA of 1.5"
+        },
+        {
+            "id": 9,
+            "criteria": "Must have demonstrated excellence in creative arts such as painting or sculpture\nMust have volunteered for disaster relief efforts or humanitarian missions\nMust have overcome significant personal challenges or obstacles\nMust have shown a commitment to promoting mental health awareness\nMust have participated in leadership development workshops or seminars\nMust have minimum GPA of 2.7"
+        }, 
+        {
+            "id": 10,
+            "criteria": "Must have demonstrated proficiency in data analysis or statistics\nMust have completed a significant independent research project\nMust have shown a commitment to supporting LGBTQ+ rights and equality\nMust have actively participated in community theater productions\nMust have a history of involvement in animal welfare organizations\nMust have maximum GPA of 2.0"
+        },
+        {
+            "id": 11,
+            "criteria": "Must have received training or certification in CPR and first aid\nMust have demonstrated leadership in a professional setting\nMust have a record of academic excellence in specific subject areas relevant to the scholarship\nMust have shown dedication to promoting STEM education in underprivileged communities\nMust have actively contributed to improving healthcare access in their community\nMust have minimum GPA of 3.0 or above"
+        },
+        {
+            "id": 12,
+            "criteria": "Must have completed an apprenticeship or vocational training program\nMust have demonstrated creativity and innovation in problem-solving\nMust have received recognition for their contributions to cultural heritage preservation\nMust have shown a commitment to promoting peace and conflict resolution\nMust have actively participated in a mentorship program for disadvantaged youth\nMust have maximum GPA of 2.2"
+        }
+    
+    ],
+    "userprofile": {
+        "GPA": 1.0,
+	    "program": "computer science",
+	    "achievements": "Dean's List, STEM Club Member",
+    	"interests": "Coding, Robotics",
+	    "goals": "Become a software engineer at a tech company"
+    }
+}
